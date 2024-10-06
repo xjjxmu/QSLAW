@@ -7,7 +7,7 @@ This repository contains the implementation of the ACM MM2024 paper: QSLAW: Adva
 - [Evaluation](#eval)
 - [Model Zoo](#model)
 
-The core implementation locates in 'llava/quantize/*' and `llava/train/train.py`
+The core implementation locates in `llava/quantize/*` and `llava/train/train.py`
 ## <a id="setup"></a>Setup
 1. Clone this repository and navigate to QSLAW folder
 ```
