@@ -1,7 +1,7 @@
 import argparse
 from collections import defaultdict
 import torch
-# 原始参数字典
+
 parser = argparse.ArgumentParser(description='Process parameter dictionary file.')
 parser.add_argument('input_file', type=str, help='Path to the input parameter dictionary file')
 args = parser.parse_args()
